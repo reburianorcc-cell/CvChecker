@@ -1,0 +1,1 @@
+Restored the original manual evaluation form and original config.py scoring table from new cv checker.zip. AI TOR checking and automatic qualification selections removed. Modern candidate modal and dashboard files retained. Existing Supabase records are not changed; the 29.10 record remains until manually re-evaluated.

@@ -1,0 +1,1 @@
+CV text extraction automatically suggests academic, experience, training and named project dropdowns. No OpenAI API is needed. All scores use the original config.py. Eligibility stays None until manually verified. Geographic projects and relevant experience must be verified against TOR. Previously saved records are not modified.

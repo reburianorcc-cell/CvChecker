@@ -1,0 +1,1 @@
+Responsive UI redesign: dashboard KPI cards, candidate search/filter and detail actions, compact two-column evaluation setup, responsive styling. Original CV analysis, scoring, Supabase database and export modules retained. Copy your existing private .streamlit/secrets.toml into this project locally; credentials intentionally excluded.

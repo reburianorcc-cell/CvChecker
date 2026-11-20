@@ -1,0 +1,6 @@
+streamlit>=1.41
+pypdf>=5.0
+python-docx>=1.1
+openpyxl>=3.1
+supabase>=2.20
+

@@ -1,0 +1,1 @@
+CV experience fix: employment history only; month-level dates; overlapping months merged. Education and project dates excluded. For sample CV as of Oct 2026: ~8.4 years, Pro A professional Below 10 years, relevant 8–9 years (subject to TOR verification). Original weights and scoring retained.
